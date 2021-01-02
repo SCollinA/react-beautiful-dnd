@@ -195,7 +195,7 @@ return items.map((item, index) => (
 Rules:
 
 - Your `key` needs to be unique within the list
-- Your `key` should not include the `index` of the item
+- **Your `key` should not include the `index` of the item**
 
 Usually you will want to just use the `draggableId` as the `key`
 
